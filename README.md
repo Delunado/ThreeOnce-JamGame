@@ -19,7 +19,7 @@ So you have to figure out how to complete each level, using the abilities proper
 
 ### Credits
 
-I [(@Delunad0)](https://twitter.com/Delunad0) did everything, from the code to the visual art, including music and sfx, except for a piece of code I used for the screen fade effect between levels.  
+I [(@Devlunado)](https://twitter.com/Delunad0) did everything, from the code to the visual art, including music and sfx, except for a piece of code I used for the screen fade effect between levels.  
 
 So, if you check the source code, it may not be perfect or production-level. That's because I had only 48 hours to complete the entire game! 
 
